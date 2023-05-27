@@ -1,17 +1,15 @@
 # Library-Management-system-project-
-This project uses the skills learnt from week 1 to week 6. The aim of this project is to developrd real time library mangement system usiny python GUI. When the application is started, it displays a menu as follows:
+This project uses the skills learnt from week 1 to week 6. This project aims to develop a real-time library management system using Python GUI. When the application is started, it displays a menu as follows:
 
 Main Menu
 
-Add a admin and user  Exit
+Add an admin and user Exit
 
 Enter Choice:
 
-write acode to developed the library mangement system using python.click the admin or user button. click the admin button it open other menu to enter bookname ,author name ,quantity  and submit .we create a database in mysql 
-run the program we get bookname ,author name ,quantity in tables form  output on my sql terminal
+write a code to develop the library management system using Python. click the admin or user button. click the admin button it opens another menu to enter book name, author name, quantity and submit. we create a database in MySQL and run the program we get the book name , author name, and quantity in tables from output on my SQL terminal
 
-
-
-This project uses the skills learnt from week 1 to week 6. The aim of this project is to developrd real time library mangement system usiny python GUI.
+This project uses the skills learnt from week 1 to week 6. This project aims to develop a real-time library management system using Python GUI.
 
 B: Library Book Management System
+
