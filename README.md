@@ -7,9 +7,9 @@ Main Menu
 Admin and user window exit
 
 If item admin is selected:
-window opens showing 3 buttons to enter book names, authors, and quantities
-create a database in MySQL
-enter book name, author, and quantity and it will find from the library and give output in table form
+window opens showing 3 buttons to enter book names, authors, and quantities.
+create a database in MySQL.
+ Enter book name, author, and quantity and it will find from the library and give output in table form.
 
 If you want to be recognized as a professional programmer, you have to practice more and develop applications in Python which you can include in your online portfolio. To achieve this, one such comprehensive project (with two small sub-projects inside it) is added which have to be completed by every student.
 
