@@ -3,6 +3,7 @@
 This project uses the skills learnt from week 1 to week 6. This project aims to develop a real-time library management system in python gui When the application is started, it displays a menu as follows:
 
 Main Menu
+
 Enter Choice:
 
 Admin and user window exit
